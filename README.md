@@ -5,4 +5,4 @@
 
 导入方式示例：
     
-    from pythonds.basic.stack import Stack #这里导入堆栈Stack
+    from pythonds.basic.stack import Stack #这里导入的是堆栈Stack
